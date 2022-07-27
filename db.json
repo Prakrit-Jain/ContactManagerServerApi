@@ -1,0 +1,44 @@
+{
+  "contacts": [
+    {
+      "id": "9e8404c2-84d3-4d27-baa0-20f7eac5578a",
+      "name": "Prakrit Jain",
+      "email": "prakrit440@gmail.com"
+    },
+    {
+      "id": "75a531d6-d34b-4a77-b52f-0b437f102e60",
+      "name": "Prateek Jain",
+      "email": "pj075@gmail.com"
+    },
+    {
+      "id": "01a03fed-adf6-45e8-b3d0-dd6316062da7",
+      "name": "Pradeep Jain",
+      "email": "pradeepj@gmai.com"
+    },
+    {
+      "id": "ebdeade0-d214-41ff-83d3-7eb75d35c7cc",
+      "name": "Samta Jain",
+      "email": "samtajain429@gmail.com"
+    },
+    {
+      "id": "5b92983a-1a25-4350-b766-cb9eb06870f8",
+      "name": "Akrit Jain",
+      "email": "akrit440@gmail.com"
+    },
+    {
+      "id": "b768fd76-58d0-4142-b960-8b64ef7c5e57",
+      "name": "Dr. Ritika Jain",
+      "email": "rititk121@gmail.com"
+    },
+    {
+      "id": "993851cb-c912-4736-8226-f58ca015dd02",
+      "name": "Anil kumar Jain",
+      "email": "anil075@gamil.com"
+    },
+    {
+      "id": "30e111ad-2529-4a87-93d3-2e703cdc4eb5",
+      "name": "Vandana Jain",
+      "email": "Vandanajain@gmail.com"
+    }
+  ]
+}
